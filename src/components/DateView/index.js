@@ -2,7 +2,7 @@ import React from "react";
 
 import prepareDate from "utils/prepareDate";
 
-import './styles.scss';
+import './styles.css';
 
 const DateView = props => {
     const {day, month} = prepareDate(props.value);

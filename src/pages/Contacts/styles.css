@@ -1,0 +1,45 @@
+.contactsPage {
+  display: flex;
+  justify-content: space-between;
+}
+.contactsPage .info {
+  width: 50%;
+}
+.contactsPage .info .phone {
+  margin-bottom: 50px;
+}
+.contactsPage .info .phone a {
+  text-decoration: none;
+  font-size: 60px;
+  color: #004fec;
+}
+.contactsPage .info .name {
+  padding-left: 23px;
+  border-left: 1px solid #004fec;
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+.contactsPage .info .mail {
+  margin-bottom: 52px;
+}
+.contactsPage .info .mail a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #333d51;
+}
+.contactsPage .info .position {
+  color: rgba(51, 61, 81, 0.5);
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+.contactsPage .info .technologies {
+  font-size: 20px;
+}
+.contactsPage .image {
+  width: 50%;
+}
+.contactsPage .image img {
+  width: 100%;
+  min-width: 540px;
+  height: 340px;
+}/*# sourceMappingURL=styles.css.map */

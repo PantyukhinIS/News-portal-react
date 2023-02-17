@@ -9,7 +9,7 @@ import NewsList from "components/NewsList";
 // import newsListMocks from "components/fixtures/newsListMocks";
 import getNews from "services/getNews/getNews";
 
-import './styles.scss';
+import './styles.css';
 
 const MainPage = () => {
     const [newsList, setNewsList] = useState([]);

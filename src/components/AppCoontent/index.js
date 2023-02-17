@@ -9,7 +9,7 @@ import Contacts, { routeMain as routeContacts } from "pages/Contacts";
 import Header from "components/Header";
 import Footer from "components/Footer";
 
-import './styles.scss';
+import './styles.css';
 
 const AppContent = () => {
   return (

@@ -6,7 +6,7 @@ import DateView from "components/DateView";
 
 import getNews from "services/getNews/getNews";
 
-import './styles.scss';
+import './styles.css';
 
 const NewsDetail = () => {
     const {id} = useParams();

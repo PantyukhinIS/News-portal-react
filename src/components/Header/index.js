@@ -6,7 +6,7 @@ import { routeMain as routeMainPage } from "pages/MainPage";
 import { routeMain as routeNewsListPage } from "pages/NewsListPage";
 import { routeMain as routeContacts } from "pages/Contacts";
 
-import './styles.scss';
+import './styles.css';
 
 const Header = () => {
   return (

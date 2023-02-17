@@ -6,7 +6,7 @@ import { routeMain as routeNewsDetail } from "pages/NewsDetail";
 
 import DateView from "components/DateView";
 
-import './styles.scss';
+import './styles.css';
 
 const NewsItem = props => (
     <NavLink className="newsItem" to={routeNewsDetail(props.item._id)}>

@@ -1,0 +1,21 @@
+.mainHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 45px 0;
+  margin-bottom: 90px;
+}
+.mainHeader .title {
+  font-size: 25px;
+  font-weight: 700;
+}
+.mainHeader nav a {
+  margin-left: 35px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.mainHeader nav a.linkActive {
+  color: #004fec;
+}
+.mainHeader nav a:first-child {
+  margin-left: 0;
+}/*# sourceMappingURL=styles.css.map */

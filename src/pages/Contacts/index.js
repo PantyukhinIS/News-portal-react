@@ -1,7 +1,7 @@
 import React from "react";
 import routeMain from "./routes";
 
-import './styles.scss';
+import './styles.css';
 
 import PhotoDev from 'assets/img/photodev.png';
 

@@ -2,7 +2,7 @@ import React from "react";
 
 import NewsItem from "./components";
 
-import './styles.scss';
+import './styles.css';
 
 const NewsList = props => (
     <div className="newsList">
